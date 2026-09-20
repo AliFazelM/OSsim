@@ -1,0 +1,11 @@
+# Object files
+*.o
+*.obj
+
+# Editor/IDE
+.vscode/
+*.swp
+
+# OS-specific
+.DS_Store
+Thumbs.db
